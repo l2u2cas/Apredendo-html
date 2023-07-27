@@ -1,0 +1,88 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPOzbkrGWTA8o+QG6IHxvdt",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/l2u2cas/Apredendo-html/blob/main/Exerc%C3%ADcio%20cnh\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 10,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 130
+        },
+        "id": "VVyU8wEOokYR",
+        "outputId": "b59a4184-d530-4ea3-8d8b-61e2b9222169"
+      },
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "ignored",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-10-8edfce83d527>\"\u001b[0;36m, line \u001b[0;32m3\u001b[0m\n\u001b[0;31m    int Quantidades-de-rodas\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax. Perhaps you forgot a comma?\n"
+          ]
+        }
+      ],
+      "source": [
+        "vars;\n",
+        "(\n",
+        "  int Quantidades de rodas\n",
+        "  int Quantidades de pessoas\n",
+        "  float Peso bruto\n",
+        ")\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "print(\"digite a quantidade de rodas do veículo\")\n",
+        "input(\"quantidades de rodas\")\n",
+        "print(\"digite o peso do veículo\")\n",
+        "input(\"peso bruto\")\n",
+        "print(\"digite a quantidade de pessoas\")\n",
+        "input(\"quantidades de pessoas\")\n",
+        "\n",
+        "if (quantidades de rodas == 2) or (quantidade de rodas == 3):\n",
+        "print(\"Sua habilitação é A\")\n",
+        "\n",
+        "elif (quantidades de rodas == 4) and (quantidade de pessoas <=8) and (peso bruto <=3500):\n",
+        "print(\"Sua habilitação é B\")\n",
+        "\n",
+        "elif (quantidades de rodas == 4) or (peso bruto >3500) and (peso bruto <=6000)\n",
+        "print(\"Sua habilitação é C\")\n",
+        "\n",
+        "elif(quantidades de rodas >= 4) and (quantidade de pessoas > 8)\n",
+        "print(\"Sua habilitação é D\")\n",
+        "\n",
+        "elif(quantidades de rodas >= 4) and (peso bruto > 6000)\n",
+        "print(\"Sua habilitação é E\")\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    }
+  ]
+}
